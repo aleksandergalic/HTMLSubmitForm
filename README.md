@@ -133,4 +133,4 @@ An example with steps of how to make an HTML Submit Form
 ## Images
 ![Submit Form](images/result1.png)
 
-![Submit Form](images/result2.png)
+![submission.html](images/result2.png)
