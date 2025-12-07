@@ -24,6 +24,28 @@ An example with steps of how to make an HTML Submit Form
 - Use the method="POST" to hide input data from the user
 
 ```
+<form action="submission.html" method="POST">
+```
+```
+<table>
+
+      <tr>
+        <th class="vsebina"><label for="ime">Ime*:</label></th>
+        <td><input type="text" id="ime" placeholder="ime"></td>
+      </tr>
+      <td>
+          <input type="submit" value="Oddaj naročilo">
+        </td>
+      </tr>
+    </table>
+</form>
+```
+
+
+## Result
+- The resulting code should be something like this:
+
+```
 <!DOCTYPE html>
 <html lang="sl">
 <link rel="stylesheet" href="css/style.css">
