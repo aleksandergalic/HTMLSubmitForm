@@ -132,4 +132,5 @@ An example with steps of how to make an HTML Submit Form
 ```
 ## Images
 <img src="result1" alt="Submit Form">
+
 <img src="result2" alt="submission.html">
