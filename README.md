@@ -20,8 +20,9 @@ An example with steps of how to make an HTML Submit Form
 ```
 
 ## Actual Submit Form
-- Now, add the actual submit form. You have multiple choices of how to make an organized Submit form. Here, chose to put all items in a <table> element
+- Now, add the actual submit form. You have multiple choices of how to make an organized submit form. Here, I chose to put all items in a <table> element
 - Use the method="POST" to hide input data from the user
+- Add a file like submission.html that loads when the user fills out the data and submits it
 
 ```
 <form action="submission.html" method="POST">
@@ -40,7 +41,6 @@ An example with steps of how to make an HTML Submit Form
     </table>
 </form>
 ```
-
 
 ## Result
 - The resulting code should be something like this:
@@ -130,3 +130,6 @@ An example with steps of how to make an HTML Submit Form
 
 </html>
 ```
+## Images
+<img src="result1" alt="Submit Form">
+<img src="result2" alt="submission.html">
